@@ -13,7 +13,7 @@ namespace EmployeeWageProOops
             Console.WriteLine("Welcome to Employee Wage Computation Program");
             EmpWageOops EmployeeWage = new EmpWageOops();
             EmployeeWage.Attendance();
-            Console.ReadKey();
+           
         }
     }
 }
